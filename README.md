@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachin Doddahubballi</h1>
-<h3 align="center">I'm a frontend developer with a passion for learning new skills and technologies. I have experience in web development, particularly with React, Redux and Tailwind CSS. I love to create efficient and user-friendly web applications.</h3>
+<h3 align="center">I'm a frontend developer with a passion for learning new skills and technologies. I have experience in web development, particularly with React, Redux and Tailwind CSS. I love to create efficient and user-friendly web applications.Passionate about creating seamless user experiences and continually expanding my expertise in full-stack development by learning Node.js and backend concepts.</h3>
 
 - 👨‍💻 All of my projects are available at [https://sachind-portfolio.netlify.app](https://sachind-portfolio.netlify.app)
 
